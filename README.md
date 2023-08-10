@@ -37,4 +37,4 @@
 &nbsp; <a href="mailto:m.junaidaqib@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [Muhammad-Junaid-Aqib]://github.com/Muhammad-Junaid-Aqib)
+⭐️ From [Muhammad-Junaid-Aqib]:(https://github.com/Muhammad-Junaid-Aqib)
