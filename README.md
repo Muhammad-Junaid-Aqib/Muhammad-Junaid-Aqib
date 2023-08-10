@@ -31,7 +31,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/mr_muhammad_junaid" target="_blank" rel="noopener noreferrer"><img src="https://www.freepik.com/free-icon/youtube_14157854.htm#page=2&query=youtube%20logo%20png&position=2&from_view=keyword&track=ais" width="50" /></a>  
+&nbsp; <a href="https://twitter.com/mr_muhammad_junaid" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/mr_muhammad_junaid/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/muhammadjunaidaqib/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:m.junaidaqib@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
