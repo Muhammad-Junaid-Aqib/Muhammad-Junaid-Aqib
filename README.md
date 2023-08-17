@@ -12,10 +12,10 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Dart | Java | C++ | C 
-- 🌐 &nbsp; React | Vue | HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp; React | Vue | HTML | CSS | JavaScript | Bootstra
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot 
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
 <br>
 
