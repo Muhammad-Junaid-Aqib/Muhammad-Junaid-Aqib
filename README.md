@@ -19,7 +19,6 @@
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
 
-<br>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
