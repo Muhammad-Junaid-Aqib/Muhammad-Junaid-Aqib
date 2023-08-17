@@ -15,9 +15,9 @@
 
 - 💻 &nbsp; Python | Dart | Java | C++ | C 
 - 🌐 &nbsp; React | Vue | HTML | CSS | JavaScript | Bootstrap
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot 
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot  
 
 
 <h3> 🤝🏻 Connect with Me </h3>
